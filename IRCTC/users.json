@@ -1,0 +1,31 @@
+[ {
+  "name" : "testuser",
+  "password" : null,
+  "userId" : "f44c0e0b-08ae-496e-9caf-68492b83dc56",
+  "hashedPassword" : "$2a$10$VKn6FyKURTXhsMCRSqxrPO/3LCb4W4HnHcIIRcheLRYwG4sUUpaJi",
+  "ticketsBooked" : [ ]
+}, {
+  "name" : "rishu",
+  "password" : null,
+  "userId" : "0dbeb821-531f-446f-9ff0-78c715a80192",
+  "hashedPassword" : "$2a$10$0mMh9pVmRsdw6GKXDbJq/ewPFV5OPV8sOgfajWClaHFNLKl/bzT66",
+  "ticketsBooked" : [ ]
+}, {
+  "name" : "stealthwolfff",
+  "password" : null,
+  "userId" : "57163aa6-ae09-4b84-a8e0-fd11e7adb57e",
+  "hashedPassword" : "$2a$10$8sPzGalFRmeD3LwlSG36COFb21QjKmDOqnTbG8wLlcGK2tXnFFmkS",
+  "ticketsBooked" : [ ]
+}, {
+  "name" : "anshu",
+  "password" : null,
+  "userId" : "65ea6c35-de8d-4cc0-849a-23044ae41721",
+  "hashedPassword" : "$2a$10$M0Gsm1bDmdHLcxh3qQZAce6C7XQvQow6vRiwVFX6h4qkafYhXVqkO",
+  "ticketsBooked" : [ ]
+}, {
+  "name" : "john_doe",
+  "password" : null,
+  "userId" : "7ab3ce67-f3e3-41bf-8c0c-6c6280363a72",
+  "hashedPassword" : "$2a$10$Z4O/3ufAAGsL6y.sjzfiQ..BG7C47Sbd0e64CLhnZ/HzPoaDq3AdK",
+  "ticketsBooked" : [ ]
+} ]

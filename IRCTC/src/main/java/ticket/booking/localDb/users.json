@@ -1,0 +1,25 @@
+[ {
+  "name" : "kaalu",
+  "password" : null,
+  "userId" : "a5f6fdd2-10c1-4b0f-ba93-9e104cbd4cd8",
+  "ticketsBooked" : [ ],
+  "hashedPassword" : "$2a$10$uTvtKmz46R9GrMnBiyD3OO1sc/iZAg2em7p5c.3OE8TvGbytszUcy"
+}, {
+  "name" : "virrr",
+  "password" : null,
+  "userId" : "227a77c9-8890-4517-a22e-101572a08a05",
+  "ticketsBooked" : [ ],
+  "hashedPassword" : "$2a$10$SpHbtaPw34YrXFleMtdcx.sDNMBxAt9raolPYh5cX.ZTvtC24Xmu."
+}, {
+  "name" : "reeta",
+  "password" : null,
+  "userId" : "d246db70-5616-4e65-9319-215d7b5215cd",
+  "ticketsBooked" : [ ],
+  "hashedPassword" : "$2a$10$sX8XZZpwuk16yNNep41X4.PFxPzFLwZJLlzNJLuhfrOvZ3V.oUjH."
+}, {
+  "name" : "SHIVANSH YADAV",
+  "password" : null,
+  "userId" : "c15f8d13-7bfa-42a3-985b-726a15a55c84",
+  "ticketsBooked" : [ ],
+  "hashedPassword" : "$2a$10$lOAQMcEuWccYXaYJmWu87u3S9BOfnH8.Hl0hGsuo2uMzrKUdNH04q"
+} ]
